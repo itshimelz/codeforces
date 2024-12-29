@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A_Anton_and_Polyhedrons",
+            "request": "launch",
+            "mainClass": "A_Anton_and_Polyhedrons",
+            "projectName": "Codeforces_878acd29"
+        },
+        {
+            "type": "java",
+            "name": "A_Bear_and_Big_Brother",
+            "request": "launch",
+            "mainClass": "A_Bear_and_Big_Brother",
+            "projectName": "Codeforces_878acd29"
+        },
+        {
+            "type": "java",
+            "name": "A_Bit",
+            "request": "launch",
+            "mainClass": "A_Bit",
+            "projectName": "Codeforces_878acd29"
+        },
+        {
+            "type": "java",
+            "name": "A_Domino_piling",
+            "request": "launch",
+            "mainClass": "A_Domino_piling",
+            "projectName": "Codeforces_878acd29"
+        },
+        {
+            "type": "java",
+            "name": "A_Football",
+            "request": "launch",
+            "mainClass": "A_Football",
+            "projectName": "Codeforces_878acd29"
+        },
+        {
+            "type": "java",
+            "name": "A_HQ_9",
+            "request": "launch",
+            "mainClass": "A_HQ_9",
+            "projectName": "Codeforces_878acd29"
+        },
+        {
+            "type": "java",
+            "name": "A_Hexadecimal_s_theorem",
+            "request": "launch",
+            "mainClass": "A_Hexadecimal_s_theorem",
+            "projectName": "Codeforces_878acd29"
+        },
+        {
+            "type": "java",
+            "name": "A_Stair_Peak_or_Neither",
+            "request": "launch",
+            "mainClass": "A_Stair_Peak_or_Neither",
+            "projectName": "Codeforces_878acd29"
+        },
+        {
+            "type": "java",
+            "name": "A_Stones_on_the_Table",
+            "request": "launch",
+            "mainClass": "A_Stones_on_the_Table",
+            "projectName": "Codeforces_878acd29"
+        },
+        {
+            "type": "java",
+            "name": "A_Sum",
+            "request": "launch",
+            "mainClass": "A_Sum",
+            "projectName": "Codeforces_878acd29"
+        },
+        {
+            "type": "java",
+            "name": "A_The_Rank",
+            "request": "launch",
+            "mainClass": "A_The_Rank",
+            "projectName": "Codeforces_878acd29"
+        },
+        {
+            "type": "java",
+            "name": "A_Twins",
+            "request": "launch",
+            "mainClass": "A_Twins",
+            "projectName": "Codeforces_878acd29"
+        },
+        {
+            "type": "java",
+            "name": "A_Two_Elevators",
+            "request": "launch",
+            "mainClass": "A_Two_Elevators",
+            "projectName": "Codeforces_878acd29"
+        },
+        {
+            "type": "java",
+            "name": "B_Fireworks",
+            "request": "launch",
+            "mainClass": "B_Fireworks",
+            "projectName": "Codeforces_878acd29"
+        },
+        {
+            "type": "java",
+            "name": "C_Clock_Conversion",
+            "request": "launch",
+            "mainClass": "C_Clock_Conversion",
+            "projectName": "Codeforces_878acd29"
+        }
+    ]
+}
